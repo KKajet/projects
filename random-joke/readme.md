@@ -11,7 +11,7 @@
 
 ### Screenshot
 
-![](./screenshots/desktop-view.png)
+![](./screenshots/desktop-view.PNG)
 
 ### Links
 
