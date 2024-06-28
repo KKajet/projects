@@ -4,8 +4,8 @@ Frontend Mentor Profile [Frontend Mentor](https://www.frontendmentor.io/profile/
 
 ## Links
 
-- [Project Demo]([https://main--frontend-mentor-kajet.netlify.app/](https://kajet-projects.netlify.app/))
-- [Project Repository]([https://github.com/KKajet/frontend-mentor](https://github.com/KKajet/projects))
+- [Project Demo](https://kajet-projects.netlify.app/)
+- [Project Repository](https://github.com/KKajet/projects)
 
 | Challenges       |    Stacks     |                                 Repo                                 |                                Demo                                 |
 | :--------------- | :-----------: | :------------------------------------------------------------------: | :-----------------------------------------------------------------: |
