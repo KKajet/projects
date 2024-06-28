@@ -12,12 +12,11 @@
 ### Screenshot
 
 ![](./screenshots/desktop-view.png)
-![](./screenshots/mobile-view.png)
 
 ### Links
 
-- Solution URL: [Solution URL here](https://github.com/KKajet/projects/tree/master/pricing-panel)
-- Live Site URL: [Live site URL here](https://kajet-projects.netlify.app/pricing-panel/index.html)
+- Solution URL: [Solution URL here](https://github.com/KKajet/projects/tree/master/random-joke)
+- Live Site URL: [Live site URL here](https://kajet-projects.netlify.app/random-joke/index.html)
 
 ## My process
 
@@ -29,6 +28,8 @@
 - Flexbox
 - Mobile-first workflow
 - Visual Studio Code
+- AJAJ
+- API
 
 ## Author
 
